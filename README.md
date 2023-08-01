@@ -4,8 +4,8 @@ Hi, I'm **SOKOUDJOU Leopold**, a solution-oriented computer science student with
 
 Utilizing HTML, CSS, and JavaScript, in VS Code and GitHub, I designed my own virtual portfolio to display my professional background.
 
-Visit the site hosted on GitHub pages here . Feel free to connect with me via the contact details located in my portfolio!
+Visit the site hosted on GitHub pages [here]{https://sokoudjou-leopold.github.io/Portfolio-1/} . Feel free to connect with me via the contact details located in my portfolio!
+
+
 ![Overview](https://github.com/SOKOUDJOU-LEOPOLD/Portfolio-1/assets/109520753/12b8b968-a23f-49c3-91b7-84b72159206e)
 
-
-Visit the site hosted on GitHub pages: 
